@@ -10,3 +10,5 @@
 11,"Swarzędzkie Przedsiębiorstwo Komunalne Sp. z o.o.","http://www.spk.swarzedz.pl","Europe/Warsaw","61 817 34 21","pl"
 12,"Zakład Komunalny w Kleszczewie Sp. z o.o.","http://www.zk.kleszczewo.pl","Europe/Warsaw","61 817 60 62","pl"
 14,"Urząd Gminy Dopiewo","http://www.dopiewo.pl","Europe/Warsaw","","pl"
+15,"Przedsiębiorstwo Usług Komunalnych sp. z o.o. w Mosinie","https://pukmosina.pl/","Europe/Warsaw","+48 61 8132-337","pl"
+16,"Przedsiębiorstwo Komunikacji Samochodowej w Poznaniu Spółka Akcyjna","https://pks.poznan.pl/","Europe/Warsaw","","pl"
