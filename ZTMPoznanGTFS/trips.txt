@@ -1,4 +1,4 @@
-﻿route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_accessible,brigade
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_accessible,brigade
 PKS,3,"3_1260286^Y+","Żabinko/",1,209098,0,115
 PKS,3,"3_1260289^Y+","Żabinko/",1,209098,0,115
 PKS,3,"3_1260291^Y+","Żabinko/",1,209098,0,115

@@ -1,4 +1,4 @@
-﻿stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id
 1162,"SMNA01","Smolna",52.4235503300,16.9651920800,A
 1219,"SOBI02","Sobiesława",52.4053544600,17.0227539200,A
 420,"KRES02","Kresowa",52.4686397100,16.9474248100,A
