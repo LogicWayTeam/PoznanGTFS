@@ -1,4 +1,4 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
 2,"Miejskie Przedsiębiorstwo Komunikacyjne Sp. z o.o. w Poznaniu","http://www.mpk.poznan.pl","Europe/Warsaw","61 646 33 44","pl"
 4,"Kórnickie Przedsiębiorstwo Autobusowe KOMBUS Sp. z o.o.","http://www.kombus.com.pl","Europe/Warsaw","61 898 06 66","pl"
 5,"Przedsiębiorstwo Wielobranżowe TRANSKOM Sp. z o.o.","http://www.transkom.com.pl","Europe/Warsaw","61 651 47 14","pl"
